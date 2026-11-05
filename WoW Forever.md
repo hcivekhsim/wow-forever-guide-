@@ -18,7 +18,7 @@ cover_shape: horizontal-contain
 10. RXP-Quest-Guides - https://www.curseforge.com/wow/addons/rxp-quest-guides / Пользовательские руководства и инструменты квестов для дополнения RestedXP
 # Аддоны для WoWVendor:  
 
-1. Timber's Ding Pics - https://dropmefiles.com/0OMSP / Автоматически делать снимок экрана + /time
+1. Timber's Ding Pics - [link](https://www.dropbox.com/scl/fi/9ydyr6zr4na9pudesp8cx/TimbersDingPics.zip?rlkey=1by35k773s2cxdbnnfzrr93y1&st=e7dhc0w8&dl=0) / Автоматически делать снимок экрана + /time
 # Можно установить позже: 
 
 1. WeakAuras - https://www.curseforge.com/wow/addons/weakauras-2 / Мощная комплексная утилита для отображения графики и информации на основе баффов, дебаффов и других триггеров.
